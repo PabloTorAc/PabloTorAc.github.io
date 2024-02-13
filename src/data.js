@@ -1,34 +1,34 @@
 export const projects = [
     {
-      title: "React Reserve",
-      subtitle: "MERN Stack",
+      title: "App Alumnos",
+      subtitle: "Xamarin Forms",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./pro1.gif",
-      link: "https://reactbootcamp.com",
+        "Aplicacion que simula el manejo de alumnos en una escuela, manejo de front end con Xamarin y de peticiones a una API de azure",
+      image: "./XamarinApp.gif",
+      link: "https://github.com/PabloTorAc/AplicacionAlumnosXamarin",
     },
     {
-      title: "React Tracks",
-      subtitle: "React and Python",
+      title: "TicTacToe",
+      subtitle: "JavaScript, html y css",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./pro2.gif",
-      link: "https://reedbarger.com",
+        "Juego de Gato en una plataforma web",
+      image: "./tictactoe.gif",
+      link: "https://github.com/PabloTorAc/TicTacToe",
     },
     {
-      title: "DevChat",
-      subtitle: "React and Firebase",
+      title: "Base de datos",
+      subtitle: "Oracle",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./pro3.gif",
-      link: "https://jsbootcamp.com",
+        "Caso practico de una base de datos de recursos humanos en oracle",
+      image: "./bdd.gif",
+      link: "https://github.com/PabloTorAc/BDRecHumanos",
     },
     {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
+      title: "Base de datos",
+      subtitle: "Oracle",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./pro4.gif",
-      link: "https://pythonbootcamp.com",
+        "Caso practico de una base de datos para una escuela en oracle",
+      image: "./bdd.gif",
+      link: "https://github.com/PabloTorAc/BDConEscolar",
     },
   ];

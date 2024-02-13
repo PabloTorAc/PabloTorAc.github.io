@@ -11,10 +11,7 @@ export default function About() {
             <br className="lg:inline-block" />Soy estudiante de la carrera de Ing en software y sistemas Computacionales.
           </h1>
           <p className="mb-8 leading-relaxed">
-          Con habilidades en lenguajes de programación 
-          como lo son Java, JavaScript, C++. Me especializo en la construcción de páginas web,
-          con herramientas como los son React y tailwindcss para el front end y Spring boot 
-          para el back end
+          Poseo conocimientos sobre los lenguajes de programación C, C++, C#, Java, Python, PHP y JavaScript, así como habilidades para diseñar y crear sitios web con html, css, JavaScript, React y TailwindCSS. Además he creado API's con el framework de Spring Boot de java. También tengo conocimientos sobre el manejo y creación de bases de datos con MySQL y Oracle. Soy una persona proactiva, creativa y con capacidad de aprendizaje y trabajo en equipo.
           </p>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
